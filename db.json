@@ -4,22 +4,26 @@
         {
             "id":1,
             "projectAlias":"Dashboard 1",
-            "data":100
+            "data":100,
+            "type":"analiticaRiesgoMora"
         },
         {
             "id":2,
             "projectAlias":"Dashboard 2",
-            "data":100
+            "data":100,
+            "type":"analiticaRiesgoMora"
         },
         {
             "id":3,
             "projectAlias":"Dashboard 3",
-            "data":100
+            "data":100,
+            "type":"analiticaRiesgoMora"
         },
         {
             "id":4,
             "projectAlias":"Dashboard 4",
-            "data":100
+            "data":100,
+            "type":"analiticaRiesgoMora"
         }
     ]
 }
