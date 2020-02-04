@@ -1,27 +1,25 @@
 {
     "proyect":[
-        [
-            {
-                "id":1,
-                "projectAlias":"Dashboard 1",
-                "data":100
-            },
-            {
-                "id":2,
-                "projectAlias":"Dashboard 2",
-                "data":100
-            },
-            {
-                "id":3,
-                "projectAlias":"Dashboard 3",
-                "data":100
-            },
-            {
-                "id":4,
-                "projectAlias":"Dashboard 4",
-                "data":100
-            }
-        ]
-       
+        
+        {
+            "id":1,
+            "projectAlias":"Dashboard 1",
+            "data":100
+        },
+        {
+            "id":2,
+            "projectAlias":"Dashboard 2",
+            "data":100
+        },
+        {
+            "id":3,
+            "projectAlias":"Dashboard 3",
+            "data":100
+        },
+        {
+            "id":4,
+            "projectAlias":"Dashboard 4",
+            "data":100
+        }
     ]
 }
