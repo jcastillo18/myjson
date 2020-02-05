@@ -10,19 +10,19 @@
         {
             "id":2,
             "projectAlias":"Dashboard 2",
-            "data":100,
+            "data":350,
             "type":2
         },
         {
             "id":3,
             "projectAlias":"Dashboard 3",
-            "data":100,
+            "data":230,
             "type":3
         },
         {
             "id":4,
             "projectAlias":"Dashboard 4",
-            "data":100,
+            "data":98,
             "type":4
         }
     ]
